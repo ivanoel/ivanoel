@@ -7,10 +7,10 @@
 
 
 
-![Ivanoel Rodrigo](https://github-readme-stats.vercel.app/api?username=ivanoel&show_icons=true)
+![Ivanoel](https://github-readme-stats.vercel.app/api?username=ivanoel&show_icons=true&theme=merko)
 
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoel&langs_count=8)](https://github.com/ivanoel/github-readme-stats)
+[![Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoel&langs_count=5)](https://github.com/ivanoel/github-readme-stats)
 
 
 
