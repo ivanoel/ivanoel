@@ -5,12 +5,15 @@
 * 💞️ Compartilhar conhecimento e usá-lo para objetivos concretos.
 * 📫 ivanoel_33@hotmail.com
 
+
+
+![Ivanoel Rodrigo](https://github-readme-stats.vercel.app/api?username=ivanoel&show_icons=true)
+
+
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoel&langs_count=8)](https://github.com/ivanoel/github-readme-stats)
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
 
 https://www.linkedin.com/in/ivanoel-rodrigo/
-
-
-
-
-[![Ivanoel GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanoel)](https://github.com/ivanoel/github-readme-stats)
-
