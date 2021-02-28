@@ -9,3 +9,8 @@
 
 https://www.linkedin.com/in/ivanoel-rodrigo/
 
+
+
+
+[! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = ivanoel )] (https://github.com/anuraghazra/github-readme-stats)
+
