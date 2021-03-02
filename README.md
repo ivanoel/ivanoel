@@ -1,4 +1,4 @@
-# 👋 Ivanoel Rodrigo :brazil:
+# 👋 Ivanoel Rodrigo
 * 💻 Desenvolvedor front-end, web design e técnico em eletrônica/informática.
 * 🌱 Sou formado em Gestão da Tecnologia da Informação, tenho experiência com front-end porém estou me reinventando. 
 * ✍🏼 buscando, aprendendo e ensinando sempre.
